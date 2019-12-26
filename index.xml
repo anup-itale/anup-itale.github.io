@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anup Itale</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anup Itale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Anup Itale</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>K-Modes and K-prototypes clustering</title>
+      <link>/project/clustering/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEAD trading in Python</title>
+      <link>/project/pead/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pairs trading in Python</title>
+      <link>/project/pairs/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual analysis of company filings</title>
+      <link>/project/dictionary-textual-analysis/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/dictionary-textual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis of Financial News using Vader library</title>
+      <link>/project/sentiment-analysis-nlp/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/sentiment-analysis-nlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

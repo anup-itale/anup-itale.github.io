@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Anup Itale</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a fourth year undergraduate student at Department of Metallurgical Engineering and Materials Science, IIT Bombay, enrolled in its Dual Degree program with minor in Industrial Engineering and Operations Research. My interests include Finance, Machine learning and Consulting. I am currently interning at Centre for Analytical Finance, Indian School of Business, Hyderabad and I&#39;ve previously interned at the Standard Chartered Bank.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
